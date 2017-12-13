@@ -1,0 +1,82 @@
+
+h1,h2 {
+	text-align: center;
+	color: white;
+	width:100%;
+	font-family: 'Proxima Nova Soft',sans-serif;
+}
+
+h3{
+	text-align: left;
+	padding-left: 380px;
+}
+p {
+text-align:left;
+padding-left: 380px;
+}
+
+a{
+	color:#24fff6;
+}
+
+
+
+.background {
+background-image: url(http://wallarthd.com/wp-content/uploads/2014/09/Apple-Keyboard-Wallpaper-For-Computer-199.jpg);
+background-repeat: no-repeat;
+background-size: 1300px 400px;
+opacity: 0.9;
+margin-left:-10px; 
+height: 180px;
+padding:10px;
+margin-right:-10px;
+
+}
+
+.person  {
+	text-align: center;
+	color: white;
+	width:100%;
+	padding-top: 10px;
+}
+
+
+#Details {
+background-color: ghostwhite;
+width: auto;
+height: 100px;
+padding:10px;
+color: #272828;
+}
+
+
+#Skills {
+background-color: #ff1769;
+color: white;
+width:auto;
+height: auto;
+padding:10px;
+margin-left:-10px; 
+margin-right:-10px;
+
+}
+
+.menu li{
+	color: white;
+	padding: 1px;
+}
+
+ul{
+	margin-top:-15px; 
+	color:white;
+	padding-left:400px; 
+	
+ }
+#Contact{
+ background-color: ghostwhite;
+ width: auto;
+ height: 100px;
+ padding:10px;
+ color: #272828;
+}
+ 
